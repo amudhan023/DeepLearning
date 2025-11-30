@@ -1,0 +1,16 @@
+{
+  "editor.fontSize": 13,
+  "notebook.cellEditorFontSize": 13,
+  "terminal.integrated.fontSize": 13,
+  "window.zoomLevel": 1,
+  "editor.inlineSuggest.enabled": true,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "github.copilot.inlineSuggest.enable": false
+}

@@ -1,0 +1,12 @@
+# Requirements for running pytorch_binary_classification.ipynb
+# Minimal set based on imports found in the notebook
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+ipython
+torchvision
+
+# Optional (not strictly required in the notebook but commonly useful):
+# jupyter
